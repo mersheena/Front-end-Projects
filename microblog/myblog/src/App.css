@@ -1,0 +1,70 @@
+input{
+  padding-left: 40%;
+  padding-right: 40%;
+  text-align: center;
+  height: 30px;
+
+
+}
+h1{
+  text-align: center;
+  color:rgb(21, 100, 136);
+}
+button{
+  background-color:rgb(4, 4, 50);
+  color:white;
+  margin-left:85%;
+  
+}
+.App{
+  color:sandybrown;
+  background-image: url('./zzz.jpeg');
+ 
+  
+}
+p{
+  font-size:large;
+}
+.box {
+  width: 650px;
+  height: 900px;
+  border: 2px;
+  border-color:  rgb(65, 65, 162);
+  margin:auto;
+
+
+  
+  color: black;
+  background:linear-gradient(to right,rgb(142, 201, 228),rgb(4, 32, 49));
+  /* Add more styling as needed */
+}
+.title{
+  color:rgb(3, 25, 31);
+  font-size: xx-large;
+}
+.content{
+  font-size: smaller;
+}
+
+.radio{
+  margin-left: 30%;
+}
+img{
+  padding-left: 10%;
+  width: 500px;
+  height: 200px;
+  
+}
+p{
+  color:cornsilk;
+  font-size: x-large;
+  text-align:left;
+}
+h5{
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(7, 4, 26);
+}
+h4{
+  color:purple;
+}
