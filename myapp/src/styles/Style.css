@@ -1,0 +1,14 @@
+.id button{
+    background-color: rgb(6, 3, 46);
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    width:180px;
+    text-decoration: none;
+    color: white;
+}
+.id{
+    background-color: orange;
+}

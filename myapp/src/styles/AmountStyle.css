@@ -1,0 +1,54 @@
+.amount{
+    text-align: center;
+   
+
+}
+.amount h1{
+    background-color: orange;
+    color:black;
+    font-size: 50px;
+    font-weight: bold;
+}
+.amount .MENU h2{
+    color: orange;
+    font-weight: bold;
+    font-size: 40px;
+}
+.amount .cart h2{
+    color: orange;
+    font-weight: bold;
+    font-size: 40px;
+}
+.amount .MENU button{
+    background-color: rgb(6, 3, 46);
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    width:180px;
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.amount .cart p{
+    margin: top 15px;
+    padding:0%;
+    font-size: 40px;
+    font-weight: lighter;
+    color: rgb(13, 3, 45);
+}
+.amount .redirect button{
+    background-color: rgb(6, 3, 46);
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    width:180px;
+    text-decoration: none;
+    color: white;
+    
+
+}
